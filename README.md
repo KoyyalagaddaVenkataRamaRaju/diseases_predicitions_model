@@ -1,6 +1,24 @@
+# Heart Disease and Diabetes Prediction App
 
-This repository contains the codebase for "Multiple Disease Prediction Streamlit App". The training notebooks & the datasets are also provided in the respective folders.
+This is a web-based application that predicts the likelihood of **Heart Disease** and **Diabetes** using trained machine learning models. The app is built using **Streamlit** and deployed on **Heroku**. It features a sleek black background with a user-friendly interface for data input and predictions.
 
-app.py is the streamlit app code. run the command "pip install -r requirements.txt" to install the required dependencies for the streamlit app.
+## Features
 
-You may need to install additional libraries for running the jupyter notebooks.
+- **Heart Disease Prediction**: Users can input health data such as age, cholesterol levels, blood pressure, etc., and the app will predict if they have heart disease.
+- **Diabetes Prediction**: Users can input health data such as glucose levels, BMI, etc., and the app will predict if they are at risk of diabetes.
+- **Interactive UI**: Built using Streamlit, the app provides an easy-to-use interface with a modern black background theme.
+- **Deployment**: The app is deployed on Heroku and can be accessed via any device with internet access.
+
+## App Screenshot
+
+![App Screenshot](app_screenshot.png)
+
+## Technologies Used
+
+- **Python**
+- **Streamlit** for the web interface
+- **scikit-learn** for machine learning
+- **joblib** to load the trained models
+- **Heroku** for deployment
+
+
