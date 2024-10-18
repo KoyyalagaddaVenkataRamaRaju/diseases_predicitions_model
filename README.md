@@ -9,9 +9,7 @@ This is a web-based application that predicts the likelihood of **Heart Disease*
 - **Interactive UI**: Built using Streamlit, the app provides an easy-to-use interface with a modern black background theme.
 - **Deployment**: The app is deployed on Heroku and can be accessed via any device with internet access.
 
-## App Screenshot
 
-![App Screenshot](app_screenshot.png)
 
 ## Technologies Used
 
